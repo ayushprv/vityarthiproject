@@ -24,8 +24,8 @@ The tracker supports the following expense categories:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/ayushyadavprv/vityarthiproject.git
+cd expenses
 ```
 
 2. Ensure you have Python 3.x installed:
@@ -37,7 +37,7 @@ python --version
 
 Run the program:
 ```bash
-python expense_tracker.py
+python expenses.py
 ```
 
 ### Main Menu Options
@@ -76,9 +76,9 @@ Enter description: Lunch at restaurant
 ## File Structure
 
 ```
-expense-tracker/
+vityarthiproject
 │
-├── expense_tracker.py    # Main program file
+├── expenses.py    # Main program file
 ├── expenses.txt          # Auto-generated data file
 └── README.md            # This file
 ```
