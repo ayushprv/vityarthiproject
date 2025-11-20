@@ -101,6 +101,3 @@ Ayush Yadav
 
 Built as a simple Python project for learning file handling and basic CRUD operations.
 
----
-
-**Note:** Before running the program, make sure you have write permissions in the directory where the script is located, as it will create an `expenses.txt` file to store your data.
